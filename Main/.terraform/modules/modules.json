@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"Webosvm","Source":"./vms","Dir":""},{"Key":"example_subnets","Source":"../Modules/subnet","Dir":"../Modules/subnet"},{"Key":"example_vnets","Source":"../Modules/Vnet","Dir":"../Modules/Vnet"},{"Key":"nic","Source":"../Modules/nic","Dir":"../Modules/nic"}]}
